@@ -1,0 +1,11 @@
+C:\Users\ge\source\repos\hProxy\hProxy\bin\Debug\hProxy.exe.config
+C:\Users\ge\source\repos\hProxy\hProxy\bin\Debug\hProxy.exe
+C:\Users\ge\source\repos\hProxy\hProxy\bin\Debug\hProxy.pdb
+C:\Users\ge\source\repos\hProxy\hProxy\obj\Debug\hProxy.Form1.resources
+C:\Users\ge\source\repos\hProxy\hProxy\obj\Debug\hProxy.Properties.Resources.resources
+C:\Users\ge\source\repos\hProxy\hProxy\obj\Debug\hProxy.csproj.GenerateResource.cache
+C:\Users\ge\source\repos\hProxy\hProxy\obj\Debug\hProxy.csproj.CoreCompileInputs.cache
+C:\Users\ge\source\repos\hProxy\hProxy\obj\Debug\hProxy.exe
+C:\Users\ge\source\repos\hProxy\hProxy\obj\Debug\hProxy.pdb
+C:\Users\ge\source\repos\hProxy\hProxy\obj\Debug\hProxy.connected.resources
+C:\Users\ge\source\repos\hProxy\hProxy\obj\Debug\hProxy.csprojAssemblyReference.cache
