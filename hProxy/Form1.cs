@@ -60,25 +60,6 @@ namespace hProxy
 
         }
 
-        private void wlkyus_Click(object sender, EventArgs e)
-        {
-            RegistryKey registry = Registry.CurrentUser.OpenSubKey("Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings", true);
-            registry.SetValue("ProxyEnable", 1);
-            registry.SetValue("ProxyServer", "sudao.site:2082");
-            string path = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
-            string pathm = Path.Combine(path, "hProxy");
-            if (Directory.Exists(pathm))
-            {
-
-            }
-            else
-            {
-                Directory.CreateDirectory(pathm);
-            }
-            var connected = new connected();
-            connected.Show();
-            this.Hide();
-        }
         static void OnProcessExit(object sender, EventArgs e)
         {
             System.Windows.Forms.Application.Exit();
